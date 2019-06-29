@@ -1,0 +1,8 @@
+.cell {
+  width: 50px;
+  height: 50px;
+}
+
+.alive {
+  background-color: grey;
+}
