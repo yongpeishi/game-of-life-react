@@ -1,0 +1,7 @@
+.world {
+  display: grid;
+  grid-template-columns: repeat(3, 10px);
+  grid-template-rows: repeat(3, 10px);
+  grid-gap: 1px;
+  padding: 1px;
+}
